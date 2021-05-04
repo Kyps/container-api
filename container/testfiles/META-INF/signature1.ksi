@@ -1,0 +1,85 @@
+KSI Signature:
+Document hash: SHA-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Signing time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+0. Identity: Client ID: 'ot.LfaHbX'; Machine ID: 'ot.LfaHbX:1'; Sequence number: 0; Request time: 1620027780107417
+1. Identity: Client ID: 'tryout2'; Machine ID: 'ALe2-1-2:16'; Sequence number: 21; Request time: 1620027780329652
+2. Identity: Client ID: 'GT'; Machine ID: 'ASe2-0:0'; Sequence number: 4; Request time: 1620027780341069
+3. Identity: Client ID: 'GT'; Machine ID: 'ANe2:2'; Sequence number: 9; Request time: 1620027780358798
+Trust anchor: 'Calendar Authentication Record'.
+-------------------------------------------
+0. Aggregation hash chain:
+Aggregation time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+Chain index     : [0b e7 53 1b 03]
+Input hash      : SHA-256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Aggr. algorithm : SHA-256
+Aggregation hash chain:
+Link: L, Identity: Client ID: 'ot.LfaHbX'; Machine ID: 'ot.LfaHbX:1'; Sequence number: 0; Request time: 1620027780107417
+
+1. Aggregation hash chain:
+Aggregation time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+Chain index     : [0b e7 53 1b]
+Input hash      : SHA-256:14ec9b32430fe6418ec88734205cf39af3dc186e846be3bb84067f328fa4799e
+Aggr. algorithm : SHA-256
+Aggregation hash chain:
+Link: L, Identity: Client ID: 'tryout2'; Machine ID: 'ALe2-1-2:16'; Sequence number: 21; Request time: 1620027780329652
+Link: L, LevelCorr: 1, Algorithm: SHA-256:1c4162ed93eba00722283f37399256da871ced3d0812b90ffe71df3ba8637d03
+Link: R, Algorithm: SHA-256:a0913ada105de1d70972f4d70741a516cb715893946cd9dd5190bdce5bf5d227
+Link: L, Algorithm: SHA-256:e8ad81645d864a91e19961d38832f52de81f4abfeb1e70117497bed35aadc100
+
+2. Aggregation hash chain:
+Aggregation time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+Chain index     : [0b e7 53]
+Input hash      : SHA-256:ec6f40c4db4231c2fe0a879efdddfb7da78f79bf884a81106191bd5bffe391fd
+Aggr. algorithm : SHA-256
+Aggregation hash chain:
+Link: L, Identity: Client ID: 'GT'; Machine ID: 'ASe2-0:0'; Sequence number: 4; Request time: 1620027780341069
+Link: L, Algorithm: SHA-256:6853569987521ab6611b44d4c66129344fe2d8f30f3036c2f9fba19baea5d450
+Link: R, Algorithm: SHA-256:701d9e51ee22b2e44ea215fa793623e3b6eb25ebe05d363235d37f224b887dd0
+Link: R, Algorithm: SHA-256:d3d0605804fecddc17d93ca5b4193c0ddd68cf90b62548b22d268d5b8e7473a1
+Link: L, Algorithm: SHA-256:6839895a887ccd4b6fa369aef0a51688b90d8d5893d2c5b96b7a002fd1ba481d
+Link: R, Algorithm: SHA-256:4f3cfe21b1d1aa8f97a615d832a2bafc522d90475dbd38c2d3d9c080d540ca37
+
+3. Aggregation hash chain:
+Aggregation time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+Chain index     : [0b e7]
+Input hash      : SHA-256:fe24e9f1892140f9182f57ff633902ff8b8a2d815bbd6f1e503d8bfaef95e5aa
+Aggr. algorithm : SHA-256
+Aggregation hash chain:
+Link: L, Identity: Client ID: 'GT'; Machine ID: 'ANe2:2'; Sequence number: 9; Request time: 1620027780358798
+Link: L, Algorithm: SHA-256:a0364e9a5a5f502b1c3d56384cc1a9f26553f3d6393f861f1d9eb2e850ff0fc1
+Link: L, Algorithm: SHA-256:b82fb1e0c34b71f64deb8e1620038922e98d64539e9f0bc4b3a707e0f37e22ea
+Link: R, Algorithm: SHA-256:58f38d18795acf21d94eb64efa56817d167f8deae74538bdc00ae77a7fe112a5
+Link: R, Algorithm: SHA-256:d940f96053903ad4cb82fbb8281bf0be7999962d056be89f29f8f425f91cc20f
+Link: L, LevelCorr: 2, Algorithm: SHA-256:00deae9b812c20529e7109b9426cbaff5ef58573e0c0277b5246b3f9c2ff54f0
+Link: L, LevelCorr: 1, Algorithm: SHA-256:648f803185136a45181bec4de6bbaec55ef4114973bb8335670e894329a0679a
+
+4. Aggregation hash chain:
+Aggregation time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+Chain index     : [0b]
+Input hash      : SHA-256:df5b52be6c04bfd02c6d480db0de84e732e60f861bd6150419431f5d0f275ed9
+Aggr. algorithm : SHA-256
+Aggregation hash chain:
+Link: L, LevelCorr: 60, Algorithm: SHA-256:0000000000000000000000000000000000000000000000000000000000000000
+Link: L, LevelCorr: 44, Algorithm: SHA-256:2632812fbbcb029d6345e3c0748b5c4ccb103a66e6860a7259a29530d253549b
+Link: R, Algorithm: SHA-256:a86dc0da3f137e17806d831bf9f06cfd418f875bfb9a693ec1bafa2801b472bc
+
+-------------------------------------------
+Calendar hash chain:
+Aggregation time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+Publication time: (1620027780) 2021-05-03 10:43:00 +0300 EEST
+Input hash      : SHA-256:7e1ac8a2c5eff6b109e02ab8969bd9d605d3483f4e1333c8b53bef9abdad335e
+Aggregation hash chain:
+Link: R, Algorithm: SHA-256:5984808fea5b3104aa4304ea49b1cb3a1614513e87050f12b1c7751906879571
+Link: R, Algorithm: SHA-256:f680a1a30358322c948d703d3626cb7b6693e058d8de9ccad3286154f7d9be19
+Link: R, Algorithm: SHA-256:85bca5204710bea66ae5002877ac8e7cb4cd4082977f38e529e483351b879602
+Link: R, Algorithm: SHA-256:d20d9e41de86c543c8e614f74fa64ae500a0d8d3a8f5dff25c2bd332d876b9d2
+Link: R, Algorithm: SHA-256:b024210df0031457d48184da2b549d2c0d39ed8917c98942870d15bd8b5eafad
+Link: R, Algorithm: SHA-256:b31079765c6519ddb7662cec71bbb3b12db94041c8bfcb528b495fca812cb813
+Link: R, Algorithm: SHA-256:b18944e6d970a9c87219dc6ab78e1b579ef0fa43db127e7ccc3ec5bd86a52d71
+Link: R, Algorithm: SHA-256:3f0a63d507a8493d628be90f633344a0c1db18944d533a6430e37447187a3857
+Link: R, Algorithm: SHA-256:449e8bccd02c3cf69eb8322a3383ffc57aecc5a0feeeb6e4d42f38f0e6459751
+Link: R, Algorithm: SHA-256:c43df63372bdbe41fda706d0ea15836a435108c75fff6654dc96f6e5e3eb69da
+Link: R, Algorithm: SHA-256:37f415003a6e1193158da072b58a5270178df7d9fff7eeb040772da2e5b52424
+Link: R, Algorithm: SHA-256:5a565a4cb71aaf1f14b7181be3e892a66d38fb71b0fea4cdbbc1fd4aadc3e0e0
+Link: R, Algorithm: SHA-256:bb44fd36a5f3cdee7b5c6df3a6098a09e353335b6029f1477502588a7e37be00
+

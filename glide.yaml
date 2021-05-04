@@ -1,0 +1,8 @@
+package: github.com/Kyps/container-api
+import:
+- package: github.com/guardtime/goksi
+  version: ^1.0.0
+  subpackages:
+  - hash
+  - service
+  - signature
