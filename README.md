@@ -37,9 +37,3 @@ No other 3rd party dependencies used.
 ## Compatibility
 
 Go 1.10 or newer.
-
-## Todo
-
--   Code refactor
--   Add actual database
--   More tests
